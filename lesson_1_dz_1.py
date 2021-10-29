@@ -15,3 +15,4 @@ elif duration >=3600 and duration < 86400:
     print(time_hour, 'час', time_min, 'мин', time_sec, 'сек')
 else:
     print(time_day, 'день', time_hour, 'час', time_min, 'мин', time_sec, 'сек')
+
