@@ -10,3 +10,4 @@ for i in range(100):
         print(i, "процента")
     else:
         print(i, "процентов")
+
